@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jarik.dido@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/YaroDido/Downloads/CV%20-%20Yaroslav%20Didenko%20IT.pdf.pdf](file:///C:/Users/YaroDido/Downloads/CV%20-%20Yaroslav%20Didenko%20IT.pdf.pdf)
+- 💼 My work experiences **Amsort(creating programming for conveyors)**
 
 - ⚡ Fun fact **I have education Master of Science in Nursing**
 
