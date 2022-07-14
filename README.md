@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarodido&show_icons=true&locale=en&layout=compact" alt="yarodido" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yarodido&show_icons=true&locale=en" alt="yarodido" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yarodido&show_icons=true&locale=en" alt="yarodido" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yarodido&" alt="yarodido" /></p>
