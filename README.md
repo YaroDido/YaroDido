@@ -1,4 +1,4 @@
-[![MasterHead]([[https://pin.it/7IUO8Hh](https://pin.it/6ts6T6I)](https://i.pinimg.com/originals/3c/af/d1/3cafd1bfdbc7191aaf49981b3e3d0594.png))]
+[![MasterHead](https://i.pinimg.com/564x/3c/af/d1/3cafd1bfdbc7191aaf49981b3e3d0594.jpg)]
 <h1 align="center">Hi 👋, I'm Yaroslav Didenko</h1>
 <h3 align="center">A Junior Java Developer</h3>
 <img alighn="center" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
