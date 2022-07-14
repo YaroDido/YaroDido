@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaroslav Didenko</h1>
 <h3 align="center">A Junior Java Developer</h3>
-<img alighn="center" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img alighn="center" alt="Coding" width="600" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yarodido&label=Profile%20views&color=0e75b6&style=flat" alt="yarodido" /> </p>
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarodido&show_icons=true&locale=en&layout=compact" alt="yarodido" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yarodido&show_icons=true&locale=en" alt="yarodido" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yarodido&show_icons=true&locale=en" alt="yarodido" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yarodido&" alt="yarodido" /></p>
