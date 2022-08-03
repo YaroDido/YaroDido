@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yarodido&label=Profile%20views&color=0e75b6&style=flat" alt="yarodido" /> </p>
 
-- 🌱 I’m currently learning **Flutter, beacause for me it's somsing new and it's one of the most popular wremwork for aplikation**
+- 🌱 I’m currently learning **Spring & Hibernate, because you need to expand your knowledge and skills and learn so much ahead of me**
 
 - 📫 How to reach me **jarik.dido@gmail.com**
 
